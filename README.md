@@ -68,5 +68,3 @@ gcloud spanner databases ddl update test-db \
   --ddl="CREATE TABLE Users (UserId STRING(36) NOT NULL, Name STRING(100), Email STRING(100)) PRIMARY KEY (UserId);"
 
 
-<img width="468" height="647" alt="image" src="https://github.com/user-attachments/assets/387f1073-0c8f-47f9-a0c0-11f7955418a9" />
-
